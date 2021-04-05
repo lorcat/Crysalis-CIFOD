@@ -8,3 +8,6 @@ regarding lattice parameters, volume for constrained and unconstraned unit cell,
 In addition the code uses [plotly](https://plotly.com "Plotly") in order to display orientation of the unit cell with respect to the instrument cartesian coordinates.
 
 Installation of plotly within Jupiter-Notebook or JupyterLab is described [separately](https://plotly.com/python/getting-started/ "Plotly documentation").
+
+Snapshots of the output:
+![Stats output](https://github.com/lorcat/Crysalis-CIFOD/blob/main/app/images/example_stats.png)
