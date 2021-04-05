@@ -9,6 +9,6 @@ In addition the code uses [plotly](https://plotly.com "Plotly") in order to disp
 
 Installation of plotly within Jupiter-Notebook or JupyterLab is described [separately](https://plotly.com/python/getting-started/ "Plotly documentation").
 
-Snapshots of the output:
+## Snapshots of the output:
 ![Stats output](https://github.com/lorcat/Crysalis-CIFOD/blob/main/app/images/example_stats.png)
 ![3D view output](https://github.com/lorcat/Crysalis-CIFOD/blob/main/app/images/example_unitcell.png)
