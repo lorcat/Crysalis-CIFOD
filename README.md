@@ -11,3 +11,4 @@ Installation of plotly within Jupiter-Notebook or JupyterLab is described [separ
 
 Snapshots of the output:
 ![Stats output](https://github.com/lorcat/Crysalis-CIFOD/blob/main/app/images/example_stats.png)
+![3D view output](https://github.com/lorcat/Crysalis-CIFOD/blob/main/app/images/example_unitcell.png)
